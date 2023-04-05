@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogeshwar Suryavamshi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js frontend development
+- 🌱 I’m currently working on fullstack javascript library development
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 yogi.s75@gmail.com
 
